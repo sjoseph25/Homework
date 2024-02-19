@@ -13,7 +13,7 @@ permalink: /HW2/
 
 This is a paragraph
 
-**This will be bold** ~~this will be strikethrough~~ <ins>this will be underlined</ins>
+**this will be bold** ~~this will be strikethrough~~ <ins>this will be underlined</ins>
 
 ## Lists
 
@@ -29,7 +29,7 @@ This is a paragraph
 1. Item 1
 2. Item 2
 3. Item 3
-4. Item 3a
+  4. Item 3a
 
 ## Table
 
